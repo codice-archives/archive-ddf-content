@@ -20,7 +20,7 @@
     <parent>
         <groupId>ddf</groupId>
         <artifactId>ddf-parent</artifactId>
-        <version>3.0.3-SNAPSHOT</version>
+        <version>3.0.3</version>
     </parent>
 
     <groupId>ddf.content</groupId>
@@ -30,7 +30,7 @@
     <name>DDF Content</name>
 
     <properties>
-        <ddf.platform.app.version>2.7.0</ddf.platform.app.version>
+        <ddf.platform.app.version>2.7.1</ddf.platform.app.version>
     </properties>
 
     <distributionManagement>
